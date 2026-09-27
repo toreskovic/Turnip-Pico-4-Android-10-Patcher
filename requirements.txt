@@ -1,0 +1,2 @@
+# Host executable, distributed as a Python wheel.
+patchelf==0.19.1.0
